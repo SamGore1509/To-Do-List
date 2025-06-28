@@ -1,0 +1,56 @@
+#text{
+    border-radius:10px;
+    height:1cm;
+    width:8cm;
+}
+
+#btn{
+    border-radius:10px;
+    height:1cm;
+    width:2cm;
+    background-color: green;
+    color:white;
+}
+
+body{
+   background-color: darkseagreen;
+}
+
+#list
+{
+    margin-top:5cm;
+    margin-left:11cm;
+    margin-right:11cm;
+    text-align:center;
+
+}
+
+#div{
+    background-color: white;
+    padding:0.5cm;
+    border-radius:20px;
+
+}
+.row{
+    background-color:whitesmoke;
+}
+ul li{
+    user-select: none;
+     font-size: medium;
+     cursor: pointer;
+     padding-right: 7cm ;
+     padding-top:10px;
+     padding-bottom:10px;
+      font-size: 15px;
+}
+
+.h2{ 
+  border-bottom:3px solid rgb(11, 58, 11);
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    border-radius:5px;
+    padding:8px;
+    margin-bottom:4px;
+}
